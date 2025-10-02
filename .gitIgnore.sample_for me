@@ -1,0 +1,9 @@
+#Backend
+
+In your package.json, the "scripts" --> you define *custom commands* that you can run with npm run <script-name>
+
+require ke jgh import use krne ke liye --> package.json me ["type": "module",] add krna pdega
+
+CORS: cross origin request policy --> sirf origin wle request ho aane do bahar wlo ko allow mt kro
+soln--> npm se CORS download krke proxy lgoa; ya fir server pe whitelisting krlo
+
